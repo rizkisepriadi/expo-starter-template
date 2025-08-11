@@ -1,0 +1,1 @@
+// Asset font global
