@@ -466,17 +466,6 @@ MIT License – feel free to use this template for personal or commercial projec
 
 ---
 
-## 🙋‍♂️ Support
-
-If you have questions or need help:
-
-- 📧 **Email**: your-email@example.com
-- 💬 **Discord**: Your Discord
-- 🐛 **Issues**: GitHub Issues
-- 📖 **Docs**: Check feature README files
-
----
-
 **Happy Coding! 🚀**
 
 > This template was made with ❤️ to help developers build production-ready mobile apps quickly and efficiently.
